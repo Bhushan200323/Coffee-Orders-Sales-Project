@@ -18,18 +18,6 @@ This project analyzes coffee orders to gain insights into customer preferences, 
    pip install pandas matplotlib
    python analyze_coffee_orders.py
    /coffee-orders-analysis
-├── coffeeOrdersData.xlsx
-├── analyze_coffee_orders.py
-├── README.md
-└── output
-    ├── summary_report.txt
-    ├── sales_trend.png
-    └── top_products.csv
-    cd /path/to/coffee-orders-analysis
-    git add output/
-    git commit -m "Add analysis output files for coffee orders project"
-    git push origin main
-    
    ---
 
 ### Steps to Upload the README to GitHub
